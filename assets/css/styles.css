@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #3b3b3b;
+    text-decoration: none;
+}
+
+html {
+    background: #f6f6f6;
+}
+
+.main-content {
+    margin: 0 auto;
+    width: 900px;
+    text-align: center;
+}
+
+.top {
+    text-align: center;
+    margin: 0 auto 20px auto;
+    width: fit-content;
+}
+
+.top .logo {
+    font-size: 2em;
+}
+
+.top .photo {
+    margin: 25px auto 20px auto;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background-color: unset;
+    background-image: url("/LOGO.jpg");
+    background-position: center;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    box-shadow: 1px 1px 30px #b5b5b5;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+}
+
+.grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+div .card {
+    display: flex;
+    box-shadow: 1px 1px 30px #b5b5b5;
+    padding: 30px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    margin: 15px;
+    width: 350px;
+}
+
+div .card:hover {
+    text-decoration: underline;
+}
+
+.card article header h2 {
+    font-size: 1.2em;
+}
+
+footer {
+    margin: 10px 0;
+}
+
+/* projects */
+
+.projects .main-content {
+    margin: 0 auto;
+    width: 550px !important;
+    text-align: left;
+}
+
+.projects footer {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.projects .top {
+    text-align: center;
+    margin: 0 auto 20px auto;
+    width: fit-content;
+}
+
+.projects .top .logo {
+    font-size: 1.2em;
+}
+
+.projects .top .photo {
+    margin: 10px auto;
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    background-color: unset;
+    background-image: url("/LOGO.jpg");
+    background-position: center;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    box-shadow: 1px 1px 30px #b5b5b5;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+}
+
+.projects .project-content h2 {
+    text-align: center;
+}
+
+.projects .project-content a {
+    text-decoration: underline;
+}
+
+.projects .project-content a:hover {
+    color: #000000;
+}
+
+.projects .project-content .description {
+    margin: 8px 0;
+}
+
+.projects .project-content h3 {
+    margin: 8px 0;
+}
+
+.back {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
