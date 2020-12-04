@@ -1,0 +1,24 @@
+{
+  "name": "victorbetini",
+  "version": "1.0.0",
+  "description": "my personal website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorbetini/victorbetini.git"
+  },
+  "author": "victorbetini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorbetini/victorbetini/issues"
+  },
+  "homepage": "https://github.com/victorbetini/victorbetini#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
