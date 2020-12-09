@@ -1,4 +1,4 @@
 ### Olá! 👋
-##### Atualmente estou estudando Next.js para utilizar como frontend juntamente com minhas APIs programadas em PHP
+##### Sou programador PHP e estou aprendendo frameworks frontend (Next.js, Nuxt.js, React.js, etc...)
 
 [victorbetini.com](https://victorbetini.com)
