@@ -11,7 +11,7 @@ function whatsappSpeedAudio() {
                 <div className="project-content">
                     <h2>WhatsApp Speed Audio</h2>
                     <p className="description">Acelere os áudios do seu WhatsApp Web</p>
-                    <p className="description"><a href="https://github.com/victorbetini/whatsapp-speed-audio" target="_blank">Repositório <BsArrowUpRight /></a></p>
+                    <p className="description"><a href="https://github.com/victorbetini/whatsapp-speed-up-audios" target="_blank">Repositório <BsArrowUpRight /></a></p>
                 </div>
                 <Footer/>
             </div>
